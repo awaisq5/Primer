@@ -1,0 +1,27 @@
+     /* External CSS */
+
+     /* Element Selector */
+body {
+    padding: 10px;
+    border: 5px black solid;
+    margin: 10px;
+    width: 250px;
+}
+     div {
+        background-color: rgb(243, 225, 201);
+      }
+
+      header {
+        background-color: aqua;
+      }
+
+      /* Class Selector */
+      .main-container {
+        background-color: blue;
+        color: chocolate;
+      }
+
+      /* ID Selector */
+      #socials {
+        background-color: blueviolet;
+      }
